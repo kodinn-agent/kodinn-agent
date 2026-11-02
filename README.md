@@ -1,5 +1,6 @@
 # <img src="./kodinn-logo.svg?v=4" alt="Kodinn Logo" width="160px" align="center" /> Kodinn
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kodinn-IA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//company/kodinn)
 > An intelligent, autonomous AI coding assistant built to streamline development workflows, automate repetitive tasks, and help developers write cleaner code faster.
 
 ---
