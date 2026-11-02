@@ -1,4 +1,4 @@
-# 🤖 Kodinn Agent
+# <img src="./kodinn-logo.svg?v=4" alt="Kodinn Logo" width="160px" align="center" /> Kodinn Agent
 
 > An intelligent, autonomous AI coding assistant built to streamline development workflows, automate repetitive tasks, and help developers write cleaner code faster.
 
